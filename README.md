@@ -1,1 +1,1 @@
-# SOM
+# SOM (Self Organizing Maps)
